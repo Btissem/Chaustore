@@ -1,0 +1,36 @@
+	
+*{
+	padding: 0;
+	margin: 0;
+}
+html,body{
+	width: 100%;	
+	background-image: url('Roses cJFC 670.jpeg');
+	background-size: cover;
+}
+#background{
+	background-color: pink;
+	opacity: 0.7;
+	height: 100vh;
+}
+
+#form{
+	width: 100%;
+	position: absolute;
+	top:0;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+#form h2{
+	text-align: center;
+	color: white;
+	margin-top:;
+}
+#form form {
+	width: 300px;
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+}
